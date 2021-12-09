@@ -1,0 +1,7 @@
+digraph {
+	1 -> 0 [label=21]
+	1 -> 2 [label=10]
+	2 -> 0 [label=10]
+	3 -> 2 [label=20]
+	3 -> 1 [label=10]
+}
